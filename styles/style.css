@@ -22,7 +22,11 @@ footer {
     text-align: center;
 }
 
-img {
+.rotate-img {
     display: block;
     right: 50px;
+}
+
+.link {
+    text-align: center;
 }
